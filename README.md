@@ -12,7 +12,7 @@ Please access the links indicated below for the following materials:
 **Training on usegalaxyp.org**
 
 - How to access and use the usegalaxyp.org training site: [http://z.umn.edu/accessusegalaxyporg](http://z.umn.edu/accessusegalaxyporg)
-- Mouse Protegenomics tutorial: [http://z.umn.edu/pginnov18]http://z.umn.edu/pginnov18
+- Mouse Protegenomics tutorial: [http://z.umn.edu/pginnov18](http://z.umn.edu/pginnov18)
 
 <br />
 **Interactive Galaxy Tours**
