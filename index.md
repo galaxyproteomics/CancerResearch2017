@@ -1,7 +1,7 @@
 ## This page provides links to instructional materials describing how to access and use the proteogenomic workflows described in the manuscript text.
 
 ### This site is under maintenance
-#### In case of job failures on this server, all the workflows and tutorials below can be tested on the [Galaxy European server] (https://proteomics.usegalaxy.eu/)
+#### In case of job failures on this server, all the workflows and tutorials below can be tested on the [Galaxy European server](https://proteomics.usegalaxy.eu/){:target="_blank"}
 
 Please access the links indicated below for the following materials:
 
